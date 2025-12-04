@@ -36,9 +36,9 @@ const projects = [
     {
         title: "Portfolio Template",
         description: "Modern and responsive portfolio template for developers and designers.",
-        image: "images/project4.jpg",
+        image: "portfolio.png",
         tags: ["HTML", "CSS", "JavaScript"],
-        liveUrl: "https://vercel.com/loreine-paraos-projects/portfolio",
+        liveUrl: "https://portfolio-five-beta-0pumuao1yc.vercel.app/",
         codeUrl: "https://github.com/reinespiparao/Portfolio_.git"
     }
 ];
@@ -359,3 +359,4 @@ style.textContent = `
 `;
 
 document.head.appendChild(style);
+
