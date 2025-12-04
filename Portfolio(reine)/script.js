@@ -38,8 +38,8 @@ const projects = [
         description: "Modern and responsive portfolio template for developers and designers.",
         image: "images/project4.jpg",
         tags: ["HTML", "CSS", "JavaScript"],
-        liveUrl: "https://example.com",
-        codeUrl: "https://github.com/yourusername/portfolio"
+        liveUrl: "https://vercel.com/loreine-paraos-projects/portfolio",
+        codeUrl: "https://github.com/reinespiparao/Portfolio_.git"
     }
 ];
 
@@ -357,4 +357,5 @@ style.textContent = `
         }
     }
 `;
+
 document.head.appendChild(style);
